@@ -1,7 +1,7 @@
 # Atividade Prática — LNPG  
 ## Capítulo 9 — Subprogramas
 
-**Nome:** Luiz Arthur   
+**Nome:** Luiz Arthur Lisboa Cirilo Torres   
 **Disciplina:** Linguagens de Programação  
 **Tema:** Subprogramas, modularização e passagem de parâmetros
 
